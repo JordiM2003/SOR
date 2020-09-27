@@ -20,4 +20,13 @@ Esta distribución es, en la actualidad, junto a Linux Mint (entre otras), una d
 Zorin OS incluye una selección bastante estándar de software en la versión normal, aunque existe mayor capacidad de elección con las versiones premium (Ultimate, Business, Multimedia y Gaming).  
 
 **Fedora:** Fue lanzada el 12 de noviembre de 2003 y su última versión estable salió el 28 de abril de 2020, cuyo soporte finaliza en tan sólo un año. Las versiones de Fedora se publican cada 6 meses aproximadamente, con un tiempo de soporte que termina a los 13 meses.  
-El proyecto no busca solo incluir software libre y de código abierto, sino ser el líder en ese ámbito tecnológico. Algo que hay que destacar es que los desarrolladores de Fedora prefieren hacer cambios en las fuentes originales en lugar de aplicar los parches específicos en su distribución, de esta forma se asegura que las actualizaciones estén disponibles para todas las variantes de GNU/Linux. 
+El proyecto no busca solo incluir software libre y de código abierto, sino ser el líder en ese ámbito tecnológico. Algo que hay que destacar es que los desarrolladores de Fedora prefieren hacer cambios en las fuentes originales en lugar de aplicar los parches específicos en su distribución, de esta forma se asegura que las actualizaciones estén disponibles para todas las variantes de GNU/Linux.  
+### ¿Qué es Unix? ¿En qué se diferencian Unix y Linux?  
+***Unix***  es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T. Este es el sistema operativo original del cual derivan los demás.  
+Por lo tanto, Unix estuvo primero en el mercado y Linux después, como resultado de un fuerte deseo de un software portable y libre, pero siguiendo la misma filosofía de Unix.  
+#### Las diferéncias entre Unix y Linux son las siguientes:  
+* Linux es gratuito y libre. El sistema Unix original no lo es, aunque algunas de sus distribuciones lo son.
+* Linux es un clon del sistema Unix original, aunque no contiene su código.
+* Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo.
+* Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores. Actualmente, Linux admite más plataformas que Unix.
+* Linux soporta más tipos de sistemas de archivos que Unix.
