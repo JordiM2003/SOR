@@ -5,7 +5,7 @@ Esta licencia fue creada por Richard Stellman, fundador de la _Free Software Fou
 El software libre esta dado para todos los usuarios gratuitamente y tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software, en cambio con el software comercial se tiene que pagar por obtener el servicio y no se puede hacer ninguna de las anteriores acciones.  
 ### ¿Qué es una distribución? ¿Cuáles son las distribuciones de Linux más usadas?  
 Es un conjunto de software específico (o un sistema operativo ya configurado).Las distribuciones de Linux más usadas son:  
-Ubuntu Linux, Elementary OS, Linux Mint, Zorin OS y Ubuntu Budgie.   
+Ubuntu Linux, Elementary OS, Linux Mint, Zorin OS y Fedora.   
 
 **Ubuntu Linux:** Fue lanzado el 20 de octubre de 2004 y su última versión es la 20.04 LTS, disponible a partir del 23 de abril de 2020. Desde su última versión, Ubuntu soporta dos arquitecturas de hardware en PCs y servidores, que son la de 32-bit y 64-bit. Al igual que la mayoría de los sistemas de escritorio basados en Linux, Ubuntu es capaz de actualizar a la vez todas las aplicaciones instaladas en la máquina a través de repositorios. Ubuntu está siendo traducido a más de 130 idiomas, y cada usuario es capaz de colaborar voluntariamente a esta causa, a través de Internet. El soporte de su última versión termina en abril de 2025.  
 
@@ -19,4 +19,5 @@ Las actualizaciones de los paquetes se lanzan con frecuencia. Linux Mint comprue
 Esta distribución es, en la actualidad, junto a Linux Mint (entre otras), una de las pocas distribuciones de GNU/Linux cuya interfaz de usuario más se asimila a Windows.  
 Zorin OS incluye una selección bastante estándar de software en la versión normal, aunque existe mayor capacidad de elección con las versiones premium (Ultimate, Business, Multimedia y Gaming).  
 
-**Ubuntu Budgie:** 
+**Fedora:** Fue lanzada el 12 de noviembre de 2003 y su última versión estable salió el 28 de abril de 2020, cuyo soporte finaliza en tan sólo un año. Las versiones de Fedora se publican cada 6 meses aproximadamente, con un tiempo de soporte que termina a los 13 meses.  
+El proyecto no busca solo incluir software libre y de código abierto, sino ser el líder en ese ámbito tecnológico. Algo que hay que destacar es que los desarrolladores de Fedora prefieren hacer cambios en las fuentes originales en lugar de aplicar los parches específicos en su distribución, de esta forma se asegura que las actualizaciones estén disponibles para todas las variantes de GNU/Linux. 
